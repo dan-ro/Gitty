@@ -1,1 +1,4 @@
 This is the first line on the 3rd file. 
+This will be the 2nd line
+Now the file has 3 lines. 
+Boom
