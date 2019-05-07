@@ -2,6 +2,5 @@ line one on file1 in Branch 2
 adding 2nd line
 adding third line
 forf
-boom
 test
 alright
